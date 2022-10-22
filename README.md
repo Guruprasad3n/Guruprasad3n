@@ -1,12 +1,14 @@
+### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Guru Prasad Behera</h1>
-<!-- <h3 align="center">Full Stack Web Developer</h3> -->
+<h2 align="center">Full Stack Web Developer</h2>
 
 
 <!-- 
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My
 name is Guru Prasad Behera -->
 <!-- ========================================================================================================================================== -->
-## Full Stack Web Developer 
+<!-- ## Full Stack Web Developer  -->
 * 🌍  I'm based in Srikakulam, Andhra Pradesh 
 * ✉️  You can contact me at
 [guruprasad7652@gmail.com](mailto:guruprasad7652@gmail.com) 
@@ -112,18 +114,47 @@ name is Guru Prasad Behera -->
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b align="center">My GitHub Stats</b>
+<p align="center">
 
+<br/>
 <a href="http://www.github.com/guruprasad3n">
-  <img src="https://github-readme-stats.vercel.app/api?username=guruprasad3n&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guruprasad3n&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
     alt="guruprasad3n's GitHub stats" /></a>
+
+<br/>
 
 <a href="http://www.github.com/guruprasad3n">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=guruprasad3n&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a
 >
+
+
+</p>
+
+<br/>
 <a href="http://www.github.com/guruprasad3n"
   >
   <img src="https://activity-graph.herokuapp.com/graph?username=guruprasad3n&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph" />
     </a>
-   
+    <!-- <a href="https://github.com/guruprasad3n" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruprasad3n&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
+    alt="Top Languages"/>
+    </a> -->
+
+
+
+<!--
+**Guruprasad3n/Guruprasad3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
