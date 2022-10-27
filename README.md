@@ -1,23 +1,25 @@
-### Hi there 👋
+[![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://guruprasad3n.github.io/)
 
 <h1 align="center">Hi 👋, I'm Guru Prasad Behera</h1>
-<h2 align="center">Full Stack Web Developer</h2>
+
+<h3 align="center">A Passionate Full Stack Web Developer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<!-- 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My
-name is Guru Prasad Behera -->
-<!-- ========================================================================================================================================== -->
-<!-- ## Full Stack Web Developer  -->
-* 🌍  I'm based in Srikakulam, Andhra Pradesh 
-* ✉️  You can contact me at
-[guruprasad7652@gmail.com](mailto:guruprasad7652@gmail.com) 
-* 🧠  I'm learning Full Stack Web Development
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Guruprasad3n&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 
-<br/>
 
-<!-- <h3 align="center"></h3> -->
+
+- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 💬 Ask me about **HTML, CSS, Js, MERN**
+
+- 📫 How to reach me **guruprasad7652@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
 
 >### Skills
 <br/>
@@ -96,8 +98,7 @@ name is Guru Prasad Behera -->
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/guruprasad3n" target="_blank" rel="noreferrer"
-    >
+  <a href="https://www.github.com/guruprasad3n" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
       width="32"
       height="32"/>
@@ -137,7 +138,11 @@ name is Guru Prasad Behera -->
   <img src="https://activity-graph.herokuapp.com/graph?username=guruprasad3n&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph" />
     </a>
-    <!-- <a href="https://github.com/guruprasad3n" align="left">
+    
+<!--    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guruprasad3n&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="guruprasad3n" /></p>
+     
+    
+    <a href="https://github.com/guruprasad3n" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruprasad3n&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
     alt="Top Languages"/>
     </a> -->
