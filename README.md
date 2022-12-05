@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Guru Prasad Behera</h1>
 
-<h3 align="center">My Name is Guru Prasad Behera. A Passionate Full Stack Web Developer. Skilled in MERN Stack. Knowledge
+<h3 align="center">A Passionate Full Stack Web Developer. Skilled in MERN Stack. Knowledge
 of Front-end and Back-end Technologies. </h3>
 
 <img
