@@ -18,7 +18,7 @@ of Front-end and Back-end Technologies. </h3>
     alt="rishavchanda"
   />
 </p>
-- ⚡ Aspiring **MERN Stack Developer**
+
 - 🌱 I’m learning **Full Stack Web Development**
 - 💬 Ask me about **HTML, CSS, Js, MERN**
 - 📫 How to reach me **guruprasad7652@gmail.com**
