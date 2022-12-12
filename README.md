@@ -19,7 +19,7 @@ of Front-end and Back-end Technologies. </h3>
   />
 </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m learning **Full Stack Web Development**
 - 💬 Ask me about **HTML, CSS, Js, MERN**
 - 📫 How to reach me **guruprasad7652@gmail.com**
 - ⚡ Fun fact **I am Funny** >
