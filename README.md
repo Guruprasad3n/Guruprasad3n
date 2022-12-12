@@ -110,11 +110,13 @@ of Front-end and Back-end Technologies. </h3>
 <p align="center">
   <br />
   <a href="http://www.github.com/guruprasad3n">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=guruprasad3n&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
-      alt="guruprasad3n's GitHub stats"
-  /></a>
+            <img
+              style={{ height: "150px" }}
+              align="center"
+              src="https://github-readme-stats.vercel.app/api?username=guruprasad3n&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+              alt="guruprasad3n's GitHub stats"
+            />
+          </a>
   <br />
   <a href="http://www.github.com/guruprasad3n">
     <img  align="center"
