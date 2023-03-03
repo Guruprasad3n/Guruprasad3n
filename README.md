@@ -10,7 +10,7 @@ of Front-end and Back-end Technologies. </h3>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=Guruprasad3n&label=Profile%20views&color=0e75b6&style=flat"
-    alt="rishavchanda"
+    alt="Profile View Count Guruprasad3n"
   />
 </p>
 
@@ -121,28 +121,14 @@ of Front-end and Back-end Technologies. </h3>
     <img  align="center"
       src="https://github-readme-streak-stats.herokuapp.com/?user=guruprasad3n&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
   /></a>
+  
 </p>
 <br />
-<!-- 
-<p><a>
-<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guruprasad3n&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="guruprasad3n" />
-</a><a href="http://www.github.com/guruprasad3n"> <img src="https://activity-graph.herokuapp.com/graph?username=guruprasad3n&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"/></a></p>
+
+<p align="center">
+<a href="http://www.github.com/guruprasad3n">
+<img  align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guruprasad3n&theme=2077" alt=""/>
+</a>
+  </p>
   
-      -->
-    
-<!--
- <a href="https://github.com/guruprasad3n" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruprasad3n&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
-    alt="Top Languages"/>
-    </a>
-**Guruprasad3n/Guruprasad3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
