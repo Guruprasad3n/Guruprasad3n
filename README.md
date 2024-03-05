@@ -14,7 +14,7 @@ of Front-end and Back-end Technologies. </h3>
   />
 </p>
 
-- ⚡ Aspiring **MERN Stack Developer**
+- ⚡ Experience in **MERN Stack web Development**
 - 🌱 I’m learning **Full Stack Web Development**
 - 💬 Ask me about **HTML, CSS, Js, MERN**
 - 📫 How to reach me **guruprasad7652@gmail.com**
